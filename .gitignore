@@ -261,3 +261,6 @@ fabric.properties
 modules.xml
 .idea/misc.xml
 *.ipr
+
+# Version control
+.idea/vcs.xml
