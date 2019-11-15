@@ -264,3 +264,6 @@ modules.xml
 
 # Version control
 .idea/vcs.xml
+
+# Profiles
+.idea/inspectionProfiles/profiles_settings.xml
